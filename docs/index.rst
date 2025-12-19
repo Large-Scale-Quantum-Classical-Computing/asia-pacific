@@ -1,6 +1,6 @@
-##################################################################
-Annual Workshop on Large Scale Quantum-Classical Computing (LSQCC)
-##################################################################
+###################################################################################
+1st Annual Asia-Pacific Workshop on Large Scale Quantum-Classical Computing (LSQCC)
+###################################################################################
 
 Quantum computing has the potential to elevate heterogeneous high-performance 
 computers to be able to tackle problems that are intractable for purely 
@@ -40,6 +40,5 @@ near future.
 ------------
 
 
-`SC25: The International Conference for High Performance
-Computing, Networking, Storage, and Analysis <https://sc25.supercomputing.org/>`_  
-St. Louis, MO - NOV 16–21
+`SCAsia 2026 <https://sc25.supercomputing.org/>`_  
+SCA2026 is to set to return on January 26 to 29, 2026. And this time in Osaka, Japan! The conference will be held in conjunction with HPC Asia 2026
