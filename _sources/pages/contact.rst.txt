@@ -1,28 +1,20 @@
 #############################
-Submission & contacts (LSQCC)
+About (LSQCC)
 #############################
-
-**Submission**
-
-`Submission for SC25 workshops at Linklings <https://submissions.supercomputing.org/>`_
-
-Deadline: 2025-10-16
 
 
 **Steering committee**
 
 * `Antonio Córcoles <https://scholar.google.com/citations?user=_nYGfnIAAAAJ&hl=en&oi=ao>`_, IBM
-* `Jay Gambetta <https://scholar.google.com/citations?user=690ygNAAAAAJ&hl=en&oi=ao>`_, IBM
 * `Max Rossmannek <https://scholar.google.com/citations?user=haAGoFsAAAAJ&hl=en>`_, IBM
-* `Iskandar Sitdikov <https://scholar.google.com/citations?user=isCe0IgAAAAJ&hl=en>`_, IBM
+
 
 **Venue**
 
-`SC25: The International Conference for High Performance
-Computing, Networking, Storage, and Analysis <https://sc25.supercomputing.org/>`_ 
+`SCA2026: Osaka International Convention Center <https://www.sca-hpcasia2026.jp>`_ 
 
-St. Louis, MO - NOV 16–21
+Osaka Japan -- January 26-29, 2026
 
 **Contacts**
 
-`@IceKhan` at `Qiskit Slack <https://qiskit.slack.com/>`_
+`@Max Rossmannek` at `Qiskit Slack <https://qiskit.slack.com/>`_
