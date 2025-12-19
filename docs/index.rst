@@ -34,7 +34,7 @@ near future.
   Workshop scope <pages/scope>
   Workshop goals <pages/goals>
   Format and schedule <pages/schedule>
-  Submission & contacts <pages/contact>
+  About <pages/contact>
 
 
 ------------

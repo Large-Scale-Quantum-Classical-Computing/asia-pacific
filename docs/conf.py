@@ -5,10 +5,10 @@ Sphinx documentation builder
 # General options:
 from pathlib import Path
 
-project = "Annual Workshop on Large Scale Quantum-Classical Computing"
+project = "Annual Asia-Pacific Workshop on Large Scale Quantum-Classical Computing"
 copyright = "2025"  # pylint: disable=redefined-builtin
 author = "LSQCC"
-year = "2025"
+year = "2026"
 
 _rootdir = Path(__file__).parent.parent
 
