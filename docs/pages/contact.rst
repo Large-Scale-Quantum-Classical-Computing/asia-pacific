@@ -6,6 +6,7 @@ About (LSQCC)
 **Steering committee**
 
 * `Antonio Córcoles <https://scholar.google.com/citations?user=_nYGfnIAAAAJ&hl=en&oi=ao>`_, IBM
+* `Hiroshi Horii <https://scholar.google.com/citations?user=KandBlQAAAAJ&hl=en>`_, IBM
 * `Max Rossmannek <https://scholar.google.com/citations?user=haAGoFsAAAAJ&hl=en>`_, IBM
 
 
