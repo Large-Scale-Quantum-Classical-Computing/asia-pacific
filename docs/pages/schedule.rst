@@ -14,11 +14,4 @@ This format ensures a balance of technical depth, practical insights, and intera
 
 **Schedule**
 
-* `9:00 – 9:15` | **Welcome** Opening remarks and an overview of the workshop objectives.
-* `9:15 – 10:00` | **Keynote** A keynote presentation from a leading expert in quantum-centric supercomputing, setting the stage for the day's discussions.
-* `10:00 – 12:00` | **Industry Presentations & Talks** Presentations from industry leaders, researchers, and practitioners showcasing the latest advancements in quantum-HPC integration, including algorithms, hardware, and real-world applications.
-* `12:00 – 13:30` | **Lunch Break** Time for networking and informal discussions.
-* `13:30 – 15:30` | **Software Demonstrations** Hands-on showcases of cutting-edge software tools, middleware, and frameworks enabling quantum-classical interoperability in HPC environments.
-* `15:30 – 16:00` | **Next Year Roadmap** A forward-looking discussion on the future of QCSC, identifying key research directions, technical challenges, and collaboration opportunities.
-* `16:00 – 17:00` | **Open Discussion & Panel** A moderated panel discussion featuring experts from industry, academia, and national labs, addressing open research questions and real-world deployment challenges.
-* `17:00 – 17:15` | **Closing Remarks** Summary of key takeaways, acknowledgments, and next steps for continued collaboration.
+TBC
