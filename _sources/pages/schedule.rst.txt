@@ -12,6 +12,7 @@ This workshop will follow a hybrid format, combining talks, live demonstrations,
 
 This format ensures a balance of technical depth, practical insights, and interactive discussions, allowing participants to gain both high-level perspectives and concrete, applicable knowledge.
 
+
 **Schedule (Tentative)**
 
 ================ =================== ================== ================
@@ -27,5 +28,3 @@ This format ensures a balance of technical depth, practical insights, and intera
   16:00 - 16:20   20-minute talk      TBC                TBC             
   16:20 - 16:30   Closing remarks     Hiroshi Horii      IBM             
 ================ =================== ================== ================
-
-Please note: the schedule is subject to change.
