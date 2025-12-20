@@ -25,3 +25,5 @@ This format ensures a balance of technical depth, practical insights, and intera
 | 15:40 - 16:00 | 20-minute talk    | TBC              | TBC            |
 | 16:00 - 16:20 | 20-minute talk    | TBC              | TBC            |
 | 16:20 - 16:30 | Closing remarks   | Hiroshi Horii    | IBM            |
+
+Please note: the schedule is subject to change.
