@@ -2,5 +2,8 @@ jupyter-sphinx>=0.3.2
 nbsphinx>=0.8.8
 sphinx-autodoc-typehints>=1.17.0
 sphinx-copybutton>=0.5.0
+sphinx-markdown-tables
 qiskit-sphinx-theme~=1.16
+recommonmark
 reno>=3.5.0
+
