@@ -23,7 +23,7 @@ This format ensures a balance of technical depth, practical insights, and intera
   14:05 - 14:25   20-minute talk      Yutaro Iiyama      UTokyo          
   14:25 - 13:45   20-minute talk      TBC                TBC             
   14:45 - 15:15   BREAK                                                  
-  15:15 - 15:40   20-minute talk      Yasuko Eckert      AMD             
+  15:15 - 15:40   Keynote             Yasuko Eckert      AMD             
   15:40 - 16:00   20-minute talk      TBC                TBC             
   16:00 - 16:20   20-minute talk      TBC                TBC             
   16:20 - 16:30   Closing remarks     Hiroshi Horii      IBM             
