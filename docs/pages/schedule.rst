@@ -2,6 +2,8 @@
 Workshop format and schedule (LSQCC)
 ####################################
 
+**Date: Thursday, January 29**
+
 **Workshop Format**
 
 This workshop will follow a hybrid format, combining talks, live demonstrations, and panel discussions to provide a comprehensive and interactive experience for both in-person and virtual attendees.
@@ -13,7 +15,7 @@ This workshop will follow a hybrid format, combining talks, live demonstrations,
 This format ensures a balance of technical depth, practical insights, and interactive discussions, allowing participants to gain both high-level perspectives and concrete, applicable knowledge.
 
 
-**Schedule (Tentative)**
+**Schedule - Thursday, January 29 (Tentative)**
 
 ================ ==================================== ================== ========================
  Time             Program                              Presenter          Affiliation    
