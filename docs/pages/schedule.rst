@@ -19,14 +19,16 @@ This format ensures a balance of technical depth, practical insights, and intera
  Time             Program                              Presenter          Affiliation    
 ================ ==================================== ================== ================
   13:30 - 13:40   Welcome and Intro                    Antonio Córcoles   IBM             
-  13:40 - 14:05   Keynote - Quantum-HPC tightly        Seiji Yunoki       RIKEN     
-                  integrated computation for
-                  electronic structure calculations
-                  in quantum chemistry
+  13:40 - 14:05   Keynote - Quantum-HPC Tightly        Seiji Yunoki       RIKEN     
+                  Integrated Computation for
+                  Electronic Structure Calculations
+                  in Quantum Chemistry
   14:05 - 14:25   20-minute talk                       Yutaro Iiyama      UTokyo          
   14:25 - 13:45   20-minute talk                       TBC                TBC             
   14:45 - 15:15   BREAK                                                  
-  15:15 - 15:40   Keynote                              Yasuko Eckert      AMD             
+  15:15 - 15:40   Keynote - Accelerating Open          Yasuko Eckert      AMD     
+                  Innovations from Exascale to
+                  Quantum-Enhanced Supercomputing
   15:40 - 16:00   20-minute talk                       TBC                TBC             
   16:00 - 16:20   20-minute talk                       TBC                TBC             
   16:20 - 16:30   Closing remarks                      Hiroshi Horii      IBM             
