@@ -2,6 +2,8 @@
 1st Annual Asia-Pacific Workshop on Large Scale Quantum-Classical Computing (LSQCC)
 ###################################################################################
 
+**Date: Thursday, January 29, 2026**
+
 Quantum computing has the potential to elevate heterogeneous high-performance 
 computers to be able to tackle problems that are intractable for purely 
 classical supercomputers. This requires the integration of quantum processing 
