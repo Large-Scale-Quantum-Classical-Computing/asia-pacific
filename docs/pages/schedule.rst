@@ -26,7 +26,7 @@ This format ensures a balance of technical depth, practical insights, and intera
                   Electronic Structure Calculations
                   in Quantum Chemistry
   14:05 - 14:25   Talk                                 Yutaro Iiyama      UTokyo          
-  14:25 - 13:45   Talk - Applications of Quantum       Zahin Saleem       Argonne National Lab             
+  14:25 - 14:45   Talk - Applications of Quantum       Zahin Saleem       Argonne National Lab             
                   Walk to State Preparation and 
                   Hamiltonian Simulation
   14:45 - 15:15   BREAK                                                  
