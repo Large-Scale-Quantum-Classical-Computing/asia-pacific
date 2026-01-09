@@ -26,14 +26,15 @@ This format ensures a balance of technical depth, practical insights, and intera
                   Electronic Structure Calculations
                   in Quantum Chemistry
   14:05 - 14:25   Talk                                 Yutaro Iiyama      UTokyo          
-  14:25 - 14:45   Talk - Applications of Quantum       Zahin Saleem       Argonne National Lab             
-                  Walk to State Preparation and 
-                  Hamiltonian Simulation
+  14:25 - 14:45   Talk                                 Pascal Elahi       Pawsey Supercomputing 
+                                                                          Research Centre             
   14:45 - 15:15   BREAK                                                  
   15:15 - 15:40   Keynote - Accelerating Open          Yasuko Eckert      AMD     
                   Innovations from Exascale to
                   Quantum-Enhanced Supercomputing
-  15:40 - 16:00   Talk                                 TBC                TBC             
-  16:00 - 16:20   Talk                                 TBC                TBC   
+  15:40 - 16:00   Talk - Applications of Quantum       Zahin Saleem       Argonne National Lab             
+                  Walk to State Preparation and 
+                  Hamiltonian Simulation
+  16:00 - 16:20   Talk                                 Aoki-san           Softbank   
   16:20 - 16:30   Closing remarks                      Hiroshi Horii      IBM             
 ================ ==================================== ================== ========================
