@@ -25,7 +25,10 @@ This format ensures a balance of technical depth, practical insights, and intera
                   Integrated Computation for
                   Electronic Structure Calculations
                   in Quantum Chemistry
-  14:05 - 14:25   Talk                                 Yutaro Iiyama      UTokyo          
+  14:05 - 14:25   Sample-Based Diagonalization of      Yutaro Iiyama      UTokyo          
+                  Lattice Gauge Theory Hamiltonians
+                  in the Quantum-HPC Integrated
+                  Framework
   14:25 - 14:45   Talk                                 Pascal Elahi       Pawsey Supercomputing 
                                                                           Research Centre             
   14:45 - 15:15   BREAK                                                  
