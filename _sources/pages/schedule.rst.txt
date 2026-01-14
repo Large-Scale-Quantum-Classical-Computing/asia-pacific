@@ -25,12 +25,12 @@ This format ensures a balance of technical depth, practical insights, and intera
                   Integrated Computation for
                   Electronic Structure Calculations
                   in Quantum Chemistry
-  14:05 - 14:25   Sample-Based Diagonalization of      Yutaro Iiyama      UTokyo          
-                  Lattice Gauge Theory Hamiltonians
-                  in the Quantum-HPC Integrated
-                  Framework
-  14:25 - 14:45   Talk                                 Pascal Elahi       Pawsey Supercomputing 
-                                                                          Research Centre             
+  14:05 - 14:25   Talk - Sample-Based Diagonalization  Yutaro Iiyama      UTokyo          
+                  of Lattice Gauge Theory 
+                  Hamiltonians in the Quantum-HPC 
+                  Integrated Framework
+  14:25 - 14:45   Talk - Enabling Hybrid Quantum      Pascal Elahi       Pawsey Supercomputing 
+                  Classical Scientific Computing                         Research Centre             
   14:45 - 15:15   BREAK                                                  
   15:15 - 15:40   Keynote - Accelerating Open          Yasuko Eckert      AMD     
                   Innovations from Exascale to
@@ -38,6 +38,8 @@ This format ensures a balance of technical depth, practical insights, and intera
   15:40 - 16:00   Talk - Applications of Quantum       Zahin Saleem       Argonne National Lab             
                   Walk to State Preparation and 
                   Hamiltonian Simulation
-  16:00 - 16:20   Talk                                 Aoki-san           Softbank   
+  16:00 - 16:20   Talk - Materials Screening Beyond    Toshihiro Aoki     Softbank Corp.   
+                  50 Qubits Enabled by QSCI-AFQMC
+                  in a Quantum–HPC Workflow
   16:20 - 16:30   Closing remarks                      Hiroshi Horii      IBM             
 ================ ==================================== ================== ========================
