@@ -44,4 +44,4 @@ near future.
 ------------
 
 
-`SCAsia 2026 <https://www.sca-hpcasia2026.jp>`_ is to set to return on January 26 to 29, 2026. And this time in Osaka, Japan! The conference will be held in conjunction with HPC Asia 2026.
+`SCAsia 2026 <https://www.sca-hpcasia2026.jp>`_ is to set to return on January 26 to 29, 2026 in Osaka, Japan! The conference will be held in conjunction with HPC Asia 2026.
