@@ -3,6 +3,7 @@ Workshop format and schedule (LSQCC)
 ####################################
 
 **Date: Thursday, January 29**
+
 **Location: Room 1008**
 
 **Workshop Format**
