@@ -18,29 +18,29 @@ This format ensures a balance of technical depth, practical insights, and intera
 
 **Schedule - Thursday, January 29 (Tentative)**
 
-================ ==================================== ================== ========================
- Time             Program                              Presenter          Affiliation    
-================ ==================================== ================== ========================
-  13:30 - 13:40   Welcome and Intro                    Antonio Córcoles   IBM             
-  13:40 - 14:05   Keynote - Quantum-HPC Tightly        Seiji Yunoki       RIKEN     
-                  Integrated Computation for
-                  Electronic Structure Calculations
-                  in Quantum Chemistry
-  14:05 - 14:25   Talk - Sample-Based Diagonalization  Yutaro Iiyama      UTokyo          
-                  of Lattice Gauge Theory 
-                  Hamiltonians in the Quantum-HPC 
-                  Integrated Framework
-  14:25 - 14:45   Talk - Enabling Hybrid Quantum      Pascal Elahi       Pawsey Supercomputing 
-                  Classical Scientific Computing                         Research Centre             
-  14:45 - 15:15   BREAK                                                  
-  15:15 - 15:40   Keynote - Accelerating Open          Yasuko Eckert      AMD     
-                  Innovations from Exascale to
-                  Quantum-Enhanced Supercomputing
-  15:40 - 16:00   Talk - Applications of Quantum       Zahin Saleem       Argonne National Lab             
-                  Walk to State Preparation and 
-                  Hamiltonian Simulation
-  16:00 - 16:20   Talk - Materials Screening Beyond    Toshihiro Aoki     Softbank Corp.   
-                  50 Qubits Enabled by QSCI-AFQMC
-                  in a Quantum–HPC Workflow
-  16:20 - 16:30   Closing remarks                      Hiroshi Horii      IBM             
-================ ==================================== ================== ========================
+=================== ==================================== ================== ========================
+ Time               Program                              Presenter          Affiliation    
+=================== ==================================== ================== ========================
+  13:30 - 13:40     Welcome and Intro                    Antonio Córcoles   IBM             
+  13:40 - 14:05     Keynote - Quantum-HPC Tightly        Seiji Yunoki       RIKEN     
+                    Integrated Computation for
+                    Electronic Structure Calculations
+                    in Quantum Chemistry
+  14:05 - 14:25     Talk - Sample-Based Diagonalization  Yutaro Iiyama      UTokyo          
+                    of Lattice Gauge Theory 
+                    Hamiltonians in the Quantum-HPC 
+                    Integrated Framework
+  14:25 - 14:45     Talk - Enabling Hybrid Quantum       Pascal Elahi      Pawsey Supercomputing 
+                    Classical Scientific Computing                         Research Centre             
+  14:45 - 15:15     BREAK                                                  
+  15:15 - 15:40     Keynote - Accelerating Open          Yasuko Eckert      AMD     
+                    Innovations from Exascale to
+                    Quantum-Enhanced Supercomputing
+  15:40 - 16:00     Talk - Applications of Quantum       Zahin Saleem       Argonne National Lab             
+                    Walk to State Preparation and 
+                    Hamiltonian Simulation
+  16:00 - 16:20     Talk - Materials Screening Beyond    Toshihiro Aoki     Softbank Corp.   
+                    50 Qubits Enabled by QSCI-AFQMC
+                    in a Quantum–HPC Workflow
+  16:20 - 16:30     Closing remarks                      Hiroshi Horii      IBM             
+=================== ==================================== ================== ========================
