@@ -3,6 +3,7 @@
 ###################################################################################
 
 **Date: Thursday, January 29, 2026**
+**Location: Room 1008**
 
 Quantum computing has the potential to elevate heterogeneous high-performance 
 computers to be able to tackle problems that are intractable for purely 
