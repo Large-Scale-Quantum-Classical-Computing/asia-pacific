@@ -5,9 +5,9 @@ Workshop format and schedule (LSQCC)
 **Date: Thursday, January 29**
 
 **Location: Room 1008**
-###
-**Workshop Format**
-###
+
+###Workshop Format###
+
 This workshop will follow a hybrid format, combining talks, live demonstrations, and panel discussions to provide a comprehensive and interactive experience for both in-person and virtual attendees.
 
 * **Talks** – Experts from industry, academia, and government research will present the latest advancements in quantum-centric supercomputing (QCSC), covering algorithms, hardware scaling, and software integration.
