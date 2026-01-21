@@ -6,7 +6,7 @@ Workshop format and schedule (LSQCC)
 
 **Location: Room 1008**
 
-**Workshop Format**
+## Workshop Format
 
 This workshop will follow a hybrid format, combining talks, live demonstrations, and panel discussions to provide a comprehensive and interactive experience for both in-person and virtual attendees.
 
